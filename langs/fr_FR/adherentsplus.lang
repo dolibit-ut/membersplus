@@ -55,6 +55,7 @@ ThisIsContentOfYourCard = Bonjour,<br><br>Ceci est un rappel des informations qu
 CardContent = Contenu de votre fiche adhérent
 SetLinkToUser = Lier à un utilisateur Dolibarr
 SetLinkToThirdParty = Lier à un tiers Dolibarr
+
 MembersCards = Cartes d'adhérent
 MembersList = Liste des adhérents
 MembersTypesList = Liste des types
@@ -64,16 +65,19 @@ MembersListUpToDate = Liste des adhérents valides à jour d'adhésion
 MembersListNotUpToDate = Liste des adhérents valides non à jour d'adhésion
 MembersListResiliated = Liste des adhérents résiliés
 MembersListQualified = Liste des adhérents qualifiés
+
 MenuMembersToValidate = Adhérents brouillons
 MenuMembersValidated = Adhérents validés
 MenuMembersUpToDate = Adhérents à jour
 MenuMembersNotUpToDate = Adhérents non à jour
 MenuMembersResiliated = Adhérents résiliés
+
 MembersWithSubscriptionToReceive = Adhérents avec cotisation à recevoir
 DateSubscription = Date adhésion
 DateEndSubscription = Date fin adhésion
 EndSubscription = Fin adhésion
 SubscriptionId = Id adhésion
+
 MemberId = Id adhérent
 NewMember = Nouvel adhérent
 MemberType = Type d'adhérent
@@ -92,6 +96,7 @@ MemberStatusResiliated = Adhérent résilié
 MemberStatusResiliatedShort = Résilié
 MembersStatusToValid = Adhérents brouillons
 MembersStatusResiliated = Adhérents résiliés
+
 NewCotisation = Nouvelle adhésion
 PaymentSubscription = Paiement cotisation
 SubscriptionEndDate = Date de fin adhésion
@@ -144,6 +149,7 @@ SubscriptionNotRecorded = Adhésion non enregistrée
 AddSubscription = Créer cotisation
 ShowSubscription = Afficher adhésion
 SendAnEMailToMember = Envoyer email d'information à l'adhérent
+
 DescADHERENT_AUTOREGISTER_NOTIF_MAIL_SUBJECT = Sujet de l'email reçu en cas d'auto-inscription d'un invité
 DescADHERENT_AUTOREGISTER_NOTIF_MAIL = Email reçu en cas d'auto-inscription d'un invité
 DescADHERENT_AUTOREGISTER_MAIL_SUBJECT = Sujet de l'email envoyé en cas d'auto-inscription d'un invité
@@ -162,6 +168,7 @@ DescADHERENT_CARD_HEADER_TEXT = Texte imprimé sur le haut des cartes d'adhéren
 DescADHERENT_CARD_TEXT = Texte imprimé sur les cartes d'adhérent (Aligné à gauche)
 DescADHERENT_CARD_TEXT_RIGHT = Texte imprimé sur les cartes d'adhérent (Aligné à droite)
 DescADHERENT_CARD_FOOTER_TEXT = Texte imprimé sur le bas des cartes d'adhérent
+
 ShowTypeCard = Voir type '%s'
 HTPasswordExport = Génération fichier htpassword
 NoThirdPartyAssociatedToMember = Pas de tiers associé à cet adhérent
@@ -213,6 +220,7 @@ MEMBER_PAYONLINE_SENDEMAIL = E-mail pour avertir des confirmations de validation
 ADHERENT_PRODUCT_ID_FOR_SUBSCRIPTIONS = Produit/Service utilisé pour la ligne de cotisation dans la facture: %s
 ADHERENT_SUBSCRIPTION_PRORATA = Type d'adhésion
 SOCIETE_SUBSCRIBE_MONTH_PRESTART = Renouvellement anticipé autorisé
+
 ADHERENT_WELCOME_MONTH = Gestion des droits d'entrée à l'adhésion
 ADHERENT_MEMBER_CATEGORY = Catégories de produits associés à l'adhésion
 ADHERENT_PRORATA_SUBSCRIPTION_FREE = Date libre
@@ -224,6 +232,7 @@ ADHERENT_SUBSCRIPTION_TRI = Prorata trimestriel
 ADHERENT_SUBSCRIPTION_MEN = Prorata mensuel
 ADHERENT_SUBSCRIPTION_DAI = Prorata hebdomadaire
 ADHERENT_SUBSCRIPTION_DAI = Prorata journalier
+
 monthbefore = mois avant la fin de validité
 AdherentMultiOneThirdparty = Mode multi adhérent par tiers
 AutoSubscription = Adhésion automatique
