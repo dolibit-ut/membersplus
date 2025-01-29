@@ -216,22 +216,24 @@ MembersByRegion = Cet écran vous montre les statistiques sur les membres par r�
 VATToUseForSubscriptions = Taux de TVA pour les adhésions
 NoVatOnSubscription = Pas de TVA sur les adhésions
 MEMBER_PAYONLINE_SENDEMAIL = E-mail pour avertir des confirmations de validation d'un règlement d'une adhésion (exemple : paiementrecu@exemple.fr)
-ADHERENT_PRODUCT_ID_FOR_SUBSCRIPTIONS = Produit/Service utilisé pour la ligne de cotisation dans la facture: %s
+
 
 SOCIETE_SUBSCRIBE_MONTH_PRESTART = Renouvellement anticipé autorisé
 
+# ADHERENT_
 ADHERENT_WELCOME_MONTH = Gestion des droits d'entrée à l'adhésion
 ADHERENT_MEMBER_CATEGORY = Catégories de produits associés à l'adhésion
 ADHERENT_PRORATA_SUBSCRIPTION_FREE = Date libre
 ADHERENT_PRORATA_SUBSCRIPTION_BLOCK = Date fixe
 ADHERENT_PRORATA_SUBSCRIPTION_TYPE = Date selon type
+ADHERENT_SUBSCRIPTION_PRORATA = Type d'adhésion
 ADHERENT_SUBSCRIPTION_SEM = Prorata semestriel
 ADHERENT_SUBSCRIPTION_QUA = Prorata quadimestriel
 ADHERENT_SUBSCRIPTION_TRI = Prorata trimestriel
 ADHERENT_SUBSCRIPTION_MEN = Prorata mensuel
+ADHERENT_SUBSCRIPTION_DAI = Prorata journalier
+ADHERENT_PRODUCT_ID_FOR_SUBSCRIPTIONS = Produit/Service utilisé pour la ligne de cotisation dans la facture: %s
 
-ADHERENT_SUBSCRIPTION_DAI = Prorata journalier  
-ADHERENT_SUBSCRIPTION_PRORATA = Type d'adhésion
 
 monthbefore = mois avant la fin de validité
 AdherentMultiOneThirdparty = Mode multi adhérent par tiers
