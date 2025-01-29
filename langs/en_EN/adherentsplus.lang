@@ -13,8 +13,8 @@ MembersCard = Members Card
 
 MembersList = List of Members
 MembersListToValid = List of Members brouillons (à valider)
-MembersListValid = List of Members valides
-MembersListUpToDate = List of Members valides à jour d'adhésion
+MembersListValid = List of Members valid
+MembersListUpToDate = List of Members up-to-date
 MembersListNotUpToDate = List of Members valides non à jour d'adhésion
 MembersListResiliated = List of Members résiliés
 MembersListQualified = List of Members qualifiés
@@ -22,8 +22,9 @@ MembersListQualified = List of Members qualifiés
 MembersTypesList = List of Member-Types
 
 MemberId = Member-ID
+MemberType = Member_Type
+MemberTypeId = Member_Type-ID
+MemberTypeLabel = Member_Type Label
+MembersTypes = Types of Members
+
 NewMember = new Member
-MemberType = Member-Type
-MemberTypeId = Member-Type-ID
-MemberTypeLabel = Member-Type Label
-MembersTypes = Member Types
