@@ -163,11 +163,12 @@ DescADHERENT_CARD_FOOTER_TEXT = Texte imprimé sur le bas des cartes d'adhérent
 
 DescADHERENT_MAIL_VALID = Email de validation adhérent
 DescADHERENT_MAIL_VALID_SUBJECT = Sujet de l'email de validation adhérent
-DescADHERENT_MAIL_COTIS_SUBJECT = Sujet de l'email de validation adhésion
 DescADHERENT_MAIL_COTIS = Email de validation d'une adhésion
-DescADHERENT_MAIL_RESIL_SUBJECT = Sujet de l'email de résiliation
+DescADHERENT_MAIL_COTIS_SUBJECT = Sujet de l'email de validation adhésion
 DescADHERENT_MAIL_RESIL = Email de résiliation
+DescADHERENT_MAIL_RESIL_SUBJECT = Sujet de l'email de résiliation
 DescADHERENT_MAIL_FROM = Email émetteur pour les mails automatiques
+
 DescADHERENT_ETIQUETTE_TYPE = Format pages étiquettes
 DescADHERENT_ETIQUETTE_TEXT = Texte imprimé sur les planches d'adresses adhérent
 
