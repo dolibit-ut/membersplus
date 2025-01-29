@@ -229,8 +229,8 @@ ADHERENT_SUBSCRIPTION_SEM = Prorata semestriel
 ADHERENT_SUBSCRIPTION_QUA = Prorata quadimestriel
 ADHERENT_SUBSCRIPTION_TRI = Prorata trimestriel
 ADHERENT_SUBSCRIPTION_MEN = Prorata mensuel
-ADHERENT_SUBSCRIPTION_DAI = Prorata hebdomadaire
-ADHERENT_SUBSCRIPTION_DAI = Prorata journalier  //double
+
+ADHERENT_SUBSCRIPTION_DAI = Prorata journalier  
 ADHERENT_SUBSCRIPTION_PRORATA = Type d'adhésion
 
 monthbefore = mois avant la fin de validité
