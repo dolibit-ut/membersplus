@@ -20,3 +20,10 @@ MembersListResiliated = List of Members résiliés
 MembersListQualified = List of Members qualifiés
 
 MembersTypesList = List of Member-Types
+
+MemberId = Member-ID
+NewMember = new Member
+MemberType = Member-Type
+MemberTypeId = Member-Type-ID
+MemberTypeLabel = Member-Type Label
+MembersTypes = Member Types
