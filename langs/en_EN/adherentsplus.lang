@@ -12,12 +12,12 @@ MemberCard = Member Card
 MembersCard = Members Card
 
 MembersList = List of Members
-MembersListToValid = List of Members brouillons (à valider)
+MembersListToValid = List of Members to validate
 MembersListValid = List of Members valid
 MembersListUpToDate = List of Members up-to-date
-MembersListNotUpToDate = List of Members valides non à jour d'adhésion
-MembersListResiliated = List of Members résiliés
-MembersListQualified = List of Members qualifiés
+MembersListNotUpToDate = List of Members NOT up-to-date
+MembersListResiliated = List of Members resiliated
+MembersListQualified = List of Members qualified
 
 MembersTypesList = List of Member-Types
 
