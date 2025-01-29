@@ -148,6 +148,7 @@ AddSubscription = Créer cotisation
 ShowSubscription = Afficher adhésion
 SendAnEMailToMember = Envoyer email d'information à l'adhérent
 
+# Descriptions
 DescADHERENT_AUTOREGISTER_NOTIF_MAIL_SUBJECT = Sujet de l'email reçu en cas d'auto-inscription d'un invité
 DescADHERENT_AUTOREGISTER_NOTIF_MAIL = Email reçu en cas d'auto-inscription d'un invité
 DescADHERENT_AUTOREGISTER_MAIL_SUBJECT = Sujet de l'email envoyé en cas d'auto-inscription d'un invité
