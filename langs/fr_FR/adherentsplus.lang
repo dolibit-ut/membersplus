@@ -139,10 +139,7 @@ ExportDataset_member_1 = Adhérents et adhésions
 ImportDataset_member_1 = Adhérents
 LastMembersModified = Les %s derniers adhérents modifiés
 LastSubscriptionsModified = Les %s dernières adhésions modifiées
-String = Chaîne
-Text = Texte long
-Int = Numérique
-DateAndTime = Date et heure
+
 PublicMemberCard = Fiche adhérent publique
 SubscriptionNotRecorded = Adhésion non enregistrée
 AddSubscription = Créer cotisation
@@ -271,3 +268,9 @@ included = inclus
 ErrorThisMemberIsNotPublic = Cet adhérent n'est pas public
 ErrorMemberIsAlreadyLinkedToThisThirdParty = Un autre adhérent (nom: <b>%s</b>, identifiant : <b>%s</b>) est déjà lié au tiers <b>%s</b>. Supprimer le lien existant d'abord car un tiers ne peut être lié qu'à un seul adhérent (et vice versa).
 ErrorUserPermissionAllowsToLinksToItselfOnly = Pour des raisons de sécurité, il faut posséder les droits de modification de tous les utilisateurs pour pouvoir lier un adhérent à un utilisateur autre que vous même.
+
+#
+String = Chaîne
+Text = Texte long
+Int = Numérique
+DateAndTime = Date et heure
